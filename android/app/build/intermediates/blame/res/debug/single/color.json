@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color/abc_tint_edittext.xml"
+    }
+]

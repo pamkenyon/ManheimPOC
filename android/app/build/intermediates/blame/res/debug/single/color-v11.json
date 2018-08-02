@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

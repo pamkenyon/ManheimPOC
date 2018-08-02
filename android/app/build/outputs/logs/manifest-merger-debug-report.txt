@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/pkenyon/.android/build-cache/fd53e8ec2360c8d97223d5383c8dcffc7463be0c/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/pkenyon/.android/build-cache/fd53e8ec2360c8d97223d5383c8dcffc7463be0c/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pkenyon/.android/build-cache/b96164d130d30a8f94c98f95e31af1b6b6479302/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pkenyon/.android/build-cache/52b98390498f4721bc5137f67e85857905a3da50/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pkenyon/.android/build-cache/3d9627dbcf58b2b3ce17b5a93e08090155ca97c5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pkenyon/.android/build-cache/857d60831ed85bea69092afea1eb84f954bceb59/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/pkenyon/.android/build-cache/27ec6367e95a3833d28aa814d3d6b8669fb77a65/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/pkenyon/.android/build-cache/6f3d1f06f4aff3d2384580db367ffd11f3e6cc4d/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pkenyon/.android/build-cache/e53f26898ec036206e84ce397ddad4962662b929/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pkenyon/.android/build-cache/1a9d31d12609f078f948dd444fe2a41aa4df5403/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/pkenyon/.android/build-cache/8932cb9b693fd9899814670dc07e9277a7712eaf/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/pkenyon/.android/build-cache/4ae400f7cec72482710c4695e02081ae72887e17/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/pkenyon/.android/build-cache/1bbd4923c91061f78771802d9d6a7c26b2b4f736/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.manheimpoc.MainActivity
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/pkenyon/.android/build-cache/fd53e8ec2360c8d97223d5383c8dcffc7463be0c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pkenyon/.android/build-cache/b96164d130d30a8f94c98f95e31af1b6b6479302/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pkenyon/.android/build-cache/52b98390498f4721bc5137f67e85857905a3da50/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pkenyon/.android/build-cache/3d9627dbcf58b2b3ce17b5a93e08090155ca97c5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pkenyon/.android/build-cache/857d60831ed85bea69092afea1eb84f954bceb59/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/pkenyon/.android/build-cache/27ec6367e95a3833d28aa814d3d6b8669fb77a65/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/pkenyon/.android/build-cache/6f3d1f06f4aff3d2384580db367ffd11f3e6cc4d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pkenyon/.android/build-cache/e53f26898ec036206e84ce397ddad4962662b929/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pkenyon/.android/build-cache/1a9d31d12609f078f948dd444fe2a41aa4df5403/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/pkenyon/.android/build-cache/8932cb9b693fd9899814670dc07e9277a7712eaf/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/pkenyon/.android/build-cache/500222309246289a27c361c023462e239490a497/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/pkenyon/.android/build-cache/f32a6d86b78d5852a50c9bc065918d007e1e92fb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/pkenyon/.android/build-cache/c232d96cae740df72029afdfb9affb40d330587e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/pkenyon/.android/build-cache/d00b205ad6028d215039acb9421344ede0bffdc1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/pkenyon/.android/build-cache/9495b1a663a4382e518706d110659b1a7a78274e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/pkenyon/.android/build-cache/fca1ecb867ad44bf81bab705e363592c0102b7fb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/pkenyon/.android/build-cache/ff77cd22c8e1a58a7dea96e04f3e5965981388ef/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/pkenyon/.android/build-cache/4ae400f7cec72482710c4695e02081ae72887e17/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pkenyon/.android/build-cache/b96164d130d30a8f94c98f95e31af1b6b6479302/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pkenyon/.android/build-cache/52b98390498f4721bc5137f67e85857905a3da50/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pkenyon/.android/build-cache/3d9627dbcf58b2b3ce17b5a93e08090155ca97c5/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pkenyon/.android/build-cache/857d60831ed85bea69092afea1eb84f954bceb59/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/pkenyon/.android/build-cache/27ec6367e95a3833d28aa814d3d6b8669fb77a65/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/pkenyon/.android/build-cache/6f3d1f06f4aff3d2384580db367ffd11f3e6cc4d/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pkenyon/.android/build-cache/e53f26898ec036206e84ce397ddad4962662b929/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pkenyon/.android/build-cache/1a9d31d12609f078f948dd444fe2a41aa4df5403/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/pkenyon/.android/build-cache/8932cb9b693fd9899814670dc07e9277a7712eaf/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/pkenyon/.android/build-cache/8932cb9b693fd9899814670dc07e9277a7712eaf/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/pkenyon/.android/build-cache/8932cb9b693fd9899814670dc07e9277a7712eaf/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/pkenyon/projects/ManheimPOC/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/pkenyon/.android/build-cache/1a9d31d12609f078f948dd444fe2a41aa4df5403/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

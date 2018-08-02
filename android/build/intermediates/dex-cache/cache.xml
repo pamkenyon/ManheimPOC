@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8942148bc18a6477cb1627bf18d033285d5af434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/d00b205ad6028d215039acb9421344ede0bffdc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_e5c2d8e76fb2b69600c721b5d100394a3743dedc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/fd53e8ec2360c8d97223d5383c8dcffc7463be0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_cd950057c0a075981843e52f56971d39f916d4b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_0f4e828da911731649a50dccf9ffea43da43b902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/b96164d130d30a8f94c98f95e31af1b6b6479302/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_158514f53659f4c4c9ec652fdcb5e53faeac4da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_3aec632de62b6a85d2877eda8156531565918fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/d170ec4e47cbae5c738949d0ce83f5ff49e757ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_02d101f783ac3dc6ccb6f28ea2a84a2cd0f9f45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_b02248eaae64b1a295ae0045f982f52ed47a6b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/ff77cd22c8e1a58a7dea96e04f3e5965981388ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_989c793830b49aa61687630e13cfcedced17cada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/8932cb9b693fd9899814670dc07e9277a7712eaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_6833ad6b71965c4d924dc3d8fc9fa91d38b84d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_f1e349734eb0d76fc18499297acfe46efdb9c0a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/52b98390498f4721bc5137f67e85857905a3da50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_e365590b4eb4cd74e7891d27c27b261f7a5b824a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/9495b1a663a4382e518706d110659b1a7a78274e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_d5b03ba057e7521560ec55cad11d9c3f4edf05b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/e53f26898ec036206e84ce397ddad4962662b929/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_833629ed05ea70818f3b0827f32bce9c47302102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/fd53e8ec2360c8d97223d5383c8dcffc7463be0c/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5e8d17ac94893a1a93b74a07d533af88fffd4c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f1ca1784db1170a2d6261c4ca2aa4b6f54df1985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/4ae400f7cec72482710c4695e02081ae72887e17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_d590c1494c12a3c57e3cd1902dde48269d2936c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/857d60831ed85bea69092afea1eb84f954bceb59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_6d71394914fa088dc7b85624754cbe08287c18c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/c232d96cae740df72029afdfb9affb40d330587e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_bfd2f2dbbdc7aea2ae0e889e53535569a92bd0f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/3d9627dbcf58b2b3ce17b5a93e08090155ca97c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_742556a58450779a5e5e6b14164bc27ecca386f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/6f3d1f06f4aff3d2384580db367ffd11f3e6cc4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_b6456e48ee395e5f864f992269a542742bb67809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/1a9d31d12609f078f948dd444fe2a41aa4df5403/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_c5e93e7eb63cb4793bb11b71bfd436cc5fadd3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_23416ad203dcff39700f3eaf735507264fc1d1f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/f32a6d86b78d5852a50c9bc065918d007e1e92fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_d395985c957080ea44a9123998a742a9fa3d725d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/fca1ecb867ad44bf81bab705e363592c0102b7fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_6ca594237b5e3bd87601f5539ff45e282e585e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_1ee12271f057ca91935fa4f157d5523238ec7e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/500222309246289a27c361c023462e239490a497/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_687887a4987bea50878fc76243dfca2ad1eb3d01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.android/build-cache/27ec6367e95a3833d28aa814d3d6b8669fb77a65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/classes_cbba60aa3e64e27ab31b3badd487d19a7dbca64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_9452c447ab697cef93225e74ecac31f78ad59d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pkenyon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/pkenyon/projects/ManheimPOC/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_9ebf16d956050ff29f73edbcc14c6aca6ab1a6a6.jar" />
+    </item>
+
+</items>
