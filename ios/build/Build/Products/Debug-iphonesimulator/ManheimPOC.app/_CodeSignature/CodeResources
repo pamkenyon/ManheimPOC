@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		PxMGraFeHDKgXyhuN6quiHt9FGU=
+		u2XnUQtmY+mISBrPqPZDaz35Rek=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UOspWcFPC/3bujXXCeBbOcUFGPU=
+		2YyheBWXiSO/tTB2Azn0oSphPfg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,7 +63,7 @@
 		</data>
 		<key>PlugIns/ManheimPOCTests.xctest.dSYM/Contents/Resources/DWARF/ManheimPOCTests</key>
 		<data>
-		i93ULrsQQil8SfndoPcAzqUW77Q=
+		+BSawtco0uMGLGAMBbvc3JN/SKo=
 		</data>
 		<key>PlugIns/ManheimPOCTests.xctest/Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>PlugIns/ManheimPOCTests.xctest/ManheimPOCTests</key>
 		<data>
-		niUanRClpoXn5Ezkny7jd8Q9vZI=
+		zobSReXaTgACPzR041xJ6RC2xrc=
 		</data>
 		<key>PlugIns/ManheimPOCTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PxMGraFeHDKgXyhuN6quiHt9FGU=
+			u2XnUQtmY+mISBrPqPZDaz35Rek=
 			</data>
 			<key>hash2</key>
 			<data>
-			dqTm9RlZJs/FcXo5FIYGjLuyUHDdHvySwCGA8d3ocYY=
+			VdQ03vbkdgCGa2ldZdbBkYbJhfIgbp4J+9uapOyiPpk=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i93ULrsQQil8SfndoPcAzqUW77Q=
+			+BSawtco0uMGLGAMBbvc3JN/SKo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0qXLEB5OVVrUS4Tj1cqNFN9QITLHmnebNX5QQtXfbcU=
+			zEj4pX789yJn+w1Dbbl/w40vb+vR6UDze4zr/MRDYG0=
 			</data>
 		</dict>
 		<key>PlugIns/ManheimPOCTests.xctest/Info.plist</key>
@@ -229,11 +229,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			niUanRClpoXn5Ezkny7jd8Q9vZI=
+			zobSReXaTgACPzR041xJ6RC2xrc=
 			</data>
 			<key>hash2</key>
 			<data>
-			T3NdVMUCxwDv8OA6L57twb2fVTA4vTOHfXh947U22nM=
+			JgHAAO1/uWrxpf3AXjyrIjjutjk+X8mCcJysGoKkrGU=
 			</data>
 		</dict>
 		<key>PlugIns/ManheimPOCTests.xctest/_CodeSignature/CodeResources</key>

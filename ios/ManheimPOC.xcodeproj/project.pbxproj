@@ -326,6 +326,13 @@
 		00E356EE1AD99517003FC87E /* ManheimPOCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ManheimPOCTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* ManheimPOCTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ManheimPOCTests.m; sourceTree = "<group>"; };
+		0649099C2137320100EA2E8B /* New York City Marathon.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; name = "New York City Marathon.gpx"; path = "../../../Desktop/Locations/New York City Marathon.gpx"; sourceTree = "<group>"; };
+		064909C22137320100EA2E8B /* manheim_atlanta.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; name = manheim_atlanta.gpx; path = ../../../Desktop/Locations/manheim_atlanta.gpx; sourceTree = "<group>"; };
+		064909C32137320100EA2E8B /* manheim_georgia.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; name = manheim_georgia.gpx; path = ../../../Desktop/Locations/manheim_georgia.gpx; sourceTree = "<group>"; };
+		064909C42137320100EA2E8B /* adesa_atlanta.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; name = adesa_atlanta.gpx; path = ../../../Desktop/Locations/adesa_atlanta.gpx; sourceTree = "<group>"; };
+		06CFC5872137495A0054517C /* Dville.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = Dville.gpx; path = ../../../Desktop/Locations/Dville.gpx; sourceTree = "<group>"; };
+		06CFC58821374B1E0054517C /* Atlanta.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = Atlanta.gpx; path = ../../../Desktop/Locations/Atlanta.gpx; sourceTree = "<group>"; };
+		06CFC58921374BD20054517C /* Atlanta35.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = Atlanta35.gpx; path = ../../../Desktop/Locations/Atlanta35.gpx; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* ManheimPOC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ManheimPOC.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -573,6 +580,13 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				06CFC58921374BD20054517C /* Atlanta35.gpx */,
+				06CFC58821374B1E0054517C /* Atlanta.gpx */,
+				06CFC5872137495A0054517C /* Dville.gpx */,
+				064909C42137320100EA2E8B /* adesa_atlanta.gpx */,
+				064909C22137320100EA2E8B /* manheim_atlanta.gpx */,
+				064909C32137320100EA2E8B /* manheim_georgia.gpx */,
+				0649099C2137320100EA2E8B /* New York City Marathon.gpx */,
 				13B07FAE1A68108700A75B9A /* ManheimPOC */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* ManheimPOCTests */,
@@ -691,6 +705,14 @@
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = 6QW4VYMC56;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -1207,6 +1229,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = 6QW4VYMC56;
 				INFOPLIST_FILE = ManheimPOC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1224,6 +1247,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6QW4VYMC56;
 				INFOPLIST_FILE = ManheimPOC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
